@@ -32,5 +32,6 @@ A simple console-based project built in Python that manages student records. It 
 💡 Author----------------
 
 Jainam Shah
-- Transitioning from Staffing Industry → Python Developer
+- Transitioning from Staffing Industry (2016-2025) → Python Developer (2025 - )
 - 📍 7+ years in Market Research & Staffing | Learning Python, OOPs, DSA, Pandas, NumPy
+- LinkedIn - https://www.linkedin.com/in/jainamcreation/
